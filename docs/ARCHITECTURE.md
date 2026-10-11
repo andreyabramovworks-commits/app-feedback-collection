@@ -29,7 +29,7 @@ Bitrix24 iframe / browser
 - intake;
 - triage & duplicates;
 - issue lifecycle;
-- assignments & SLA;
+- responsibility, review and Bitrix24 task links;
 - Bitrix24 integration;
 - analytics read models;
 - notifications;
@@ -70,7 +70,7 @@ Bitrix24 iframe / browser
 - ошибки разработчиков — Sentry/GlitchTip;
 - события аудита — PostgreSQL с ограниченным доступом и политикой хранения.
 
-Нельзя напрямую отдавать сотрудникам Grafana/Kibana как интерфейс продукта: это раскрывает технические детали, усложняет права и делает UX зависимым от инструмента эксплуатации. Простое пояснение выбора находится в [TECHNOLOGY_EXPLAINED.md](TECHNOLOGY_EXPLAINED.md).
+Нельзя напрямую отдавать сотрудникам Grafana/Kibana как интерфейс продукта: это раскрывает технические детали, усложняет права и делает UX зависимым от инструмента эксплуатации.
 
 ## Безопасность
 
