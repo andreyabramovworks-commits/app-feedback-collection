@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#1e3a5f" flood-opacity=".10"/></filter>
+    <linearGradient id="hero" x1="0" x2="1"><stop stop-color="#155e75"/><stop offset="1" stop-color="#0f766e"/></linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="#f4f7fb"/>
+  <rect width="262" height="1000" fill="#102a43"/>
+  <text x="34" y="66" fill="#ffffff" font-family="Arial, sans-serif" font-size="27" font-weight="700">Пульс</text>
+  <text x="34" y="93" fill="#9fc5dc" font-family="Arial, sans-serif" font-size="18">проектов</text>
+  <text x="34" y="151" fill="#8fb4ca" font-family="Arial, sans-serif" font-size="12" font-weight="700">НАВИГАЦИЯ</text>
+  <g font-family="Arial, sans-serif" font-size="17" fill="#d7e6f1">
+    <rect x="18" y="171" width="226" height="50" rx="12" fill="#1d4f6f"/>
+    <text x="47" y="203" fill="#fff" font-weight="700">⌂   Главная</text>
+    <text x="47" y="260">▣   Мои формы</text>
+    <text x="47" y="317">▤   Проекты</text>
+    <text x="47" y="374">◉   Разборы</text>
+    <text x="47" y="431">▥   Аналитика</text>
+    <text x="47" y="488">⚙   Настройки</text>
+  </g>
+  <rect x="27" y="850" width="208" height="112" rx="16" fill="#173f59"/>
+  <text x="45" y="882" fill="#cce8f3" font-family="Arial" font-size="14" font-weight="700">БУДУЩИЙ РЕЛИЗ</text>
+  <text x="45" y="912" fill="#fff" font-family="Arial" font-size="16" font-weight="700">Напоминания</text>
+  <text x="45" y="938" fill="#b9d8e8" font-family="Arial" font-size="13">Автоматические подсказки</text>
+  <rect x="262" y="0" width="1338" height="86" fill="#fff"/>
+  <text x="302" y="53" fill="#1e3447" font-family="Arial" font-size="17" font-weight="700">Проект:  Монтаж сцены — Лето 2026⌄</text>
+  <rect x="782" y="23" width="290" height="40" rx="10" fill="#f0f4f7"/>
+  <text x="806" y="49" fill="#7790a3" font-family="Arial" font-size="15">⌕  Поиск по проектам и записям</text>
+  <text x="1242" y="52" fill="#47667c" font-family="Arial" font-size="16">☼</text>
+  <circle cx="1321" cy="43" r="21" fill="#d4edf1"/>
+  <text x="1355" y="49" fill="#28465b" font-family="Arial" font-size="15" font-weight="700">Андрей ▾</text>
+  <text x="310" y="142" fill="#18334a" font-family="Arial" font-size="31" font-weight="700">Главная</text>
+  <text x="310" y="172" fill="#71899b" font-family="Arial" font-size="16">Всё важное по вашим проектам — на одном экране</text>
+  <g filter="url(#shadow)">
+    <rect x="310" y="202" width="270" height="114" rx="18" fill="#fff"/>
+    <rect x="600" y="202" width="270" height="114" rx="18" fill="#fff"/>
+    <rect x="890" y="202" width="270" height="114" rx="18" fill="#fff"/>
+    <rect x="1180" y="202" width="270" height="114" rx="18" fill="#fff"/>
+  </g>
+  <g font-family="Arial"><text x="334" y="235" fill="#71899b" font-size="14">НУЖНО СДАТЬ</text><text x="334" y="286" fill="#173c55" font-size="36" font-weight="700">3</text><circle cx="535" cy="254" r="22" fill="#e7f5f3"/><text x="524" y="261" fill="#0f766e" font-size="22">✓</text>
+  <text x="624" y="235" fill="#71899b" font-size="14">ЖДЁТ РАЗБОРА</text><text x="624" y="286" fill="#173c55" font-size="36" font-weight="700">12</text><circle cx="825" cy="254" r="22" fill="#fff3d9"/><text x="816" y="262" fill="#bf7b00" font-size="22">!</text>
+  <text x="914" y="235" fill="#71899b" font-size="14">ЗАДАЧИ В РАБОТЕ</text><text x="914" y="286" fill="#173c55" font-size="36" font-weight="700">8</text><circle cx="1115" cy="254" r="22" fill="#e8f0ff"/><text x="1106" y="261" fill="#3769b1" font-size="20">↗</text>
+  <text x="1204" y="235" fill="#71899b" font-size="14">ИНИЦИАТИВЫ</text><text x="1204" y="286" fill="#173c55" font-size="36" font-weight="700">5</text><circle cx="1405" cy="254" r="22" fill="#f0eaff"/><text x="1396" y="262" fill="#7950c6" font-size="20">✦</text></g>
+  <rect x="310" y="346" width="1140" height="147" rx="20" fill="url(#hero)" filter="url(#shadow)"/>
+  <text x="342" y="386" fill="#c7f3ef" font-family="Arial" font-size="14" font-weight="700">СЛЕДУЮЩЕЕ ДЕЙСТВИЕ</text>
+  <text x="342" y="426" fill="#fff" font-family="Arial" font-size="25" font-weight="700">Сдайте обратную связь по проекту</text>
+  <text x="342" y="455" fill="#d2f5f1" font-family="Arial" font-size="16">Монтаж сцены — Лето 2026 · осталось 2 дня</text>
+  <rect x="1205" y="389" width="210" height="60" rx="14" fill="#fff"/>
+  <text x="1233" y="427" fill="#0f706c" font-family="Arial" font-size="16" font-weight="700">Открыть форму →</text>
+  <rect x="310" y="523" width="710" height="398" rx="20" fill="#fff" filter="url(#shadow)"/>
+  <text x="338" y="563" fill="#18334a" font-family="Arial" font-size="20" font-weight="700">Проекты, требующие внимания</text>
+  <text x="338" y="592" fill="#7890a0" font-family="Arial" font-size="14">Статус сдачи форм и разборов</text>
+  <g font-family="Arial" font-size="14"><text x="340" y="640" fill="#8195a5">ПРОЕКТ</text><text x="685" y="640" fill="#8195a5">СДАЧА</text><text x="802" y="640" fill="#8195a5">СТАТУС</text></g>
+  <line x1="338" y1="657" x2="992" y2="657" stroke="#e5edf2"/>
+  <g font-family="Arial"><text x="340" y="700" fill="#24445c" font-size="16" font-weight="700">Монтаж сцены — Лето 2026</text><text x="688" y="700" fill="#24445c" font-size="15">14 / 18</text><rect x="800" y="678" width="122" height="29" rx="14" fill="#fff3d9"/><text x="815" y="698" fill="#aa7000" font-size="13" font-weight="700">Ждёт формы</text>
+  <text x="340" y="758" fill="#24445c" font-size="16" font-weight="700">Фестиваль «Город»</text><text x="688" y="758" fill="#24445c" font-size="15">9 / 9</text><rect x="800" y="736" width="112" height="29" rx="14" fill="#e7f5f3"/><text x="817" y="756" fill="#097468" font-size="13" font-weight="700">На разборе</text>
+  <text x="340" y="816" fill="#24445c" font-size="16" font-weight="700">Конференция Q4</text><text x="688" y="816" fill="#24445c" font-size="15">11 / 11</text><rect x="800" y="794" width="94" height="29" rx="14" fill="#e8f0ff"/><text x="813" y="814" fill="#2b5ea8" font-size="13" font-weight="700">Закрыт</text></g>
+  <text x="338" y="882" fill="#0e766e" font-family="Arial" font-size="15" font-weight="700">Все проекты →</text>
+  <rect x="1050" y="523" width="400" height="190" rx="20" fill="#fff" filter="url(#shadow)"/>
+  <text x="1078" y="563" fill="#18334a" font-family="Arial" font-size="20" font-weight="700">Картина по статусам</text>
+  <g fill="none" stroke-linecap="round" stroke-width="18"><path d="M1090 629 A70 70 0 0 1 1153 574" stroke="#0f766e"/><path d="M1157 574 A70 70 0 0 1 1216 624" stroke="#e9b949"/><path d="M1216 630 A70 70 0 0 1 1144 692" stroke="#4377c4"/></g>
+  <text x="1280" y="603" fill="#496879" font-family="Arial" font-size="14">Новые  12</text><text x="1280" y="633" fill="#496879" font-family="Arial" font-size="14">Разбор  8</text><text x="1280" y="663" fill="#496879" font-family="Arial" font-size="14">Закрыто  24</text>
+  <rect x="1050" y="743" width="400" height="178" rx="20" fill="#fff" filter="url(#shadow)"/>
+  <text x="1078" y="783" fill="#18334a" font-family="Arial" font-size="20" font-weight="700">Будет в следующем релизе</text>
+  <text x="1078" y="817" fill="#0f766e" font-family="Arial" font-size="16" font-weight="700">◌ Напоминания</text><text x="1078" y="842" fill="#708a9b" font-family="Arial" font-size="14">Поможем вовремя сдать форму</text>
+  <text x="1078" y="880" fill="#0f766e" font-family="Arial" font-size="16" font-weight="700">◌ Шаблоны разборов</text><text x="1078" y="905" fill="#708a9b" font-family="Arial" font-size="14">Единый удобный акт разбора</text>
+</svg>

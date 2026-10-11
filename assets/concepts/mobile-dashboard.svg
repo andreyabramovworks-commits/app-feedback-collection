@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="932" viewBox="0 0 430 932">
+  <defs><filter id="s" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#16405a" flood-opacity=".11"/></filter><linearGradient id="g" x1="0" x2="1"><stop stop-color="#155e75"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+  <rect width="430" height="932" fill="#f4f7fb"/>
+  <rect width="430" height="88" fill="#fff"/>
+  <text x="24" y="39" fill="#17354a" font-family="Arial" font-size="23" font-weight="700">Пульс проектов</text>
+  <text x="24" y="65" fill="#7891a3" font-family="Arial" font-size="13">Главная · Все проекты</text>
+  <circle cx="387" cy="43" r="20" fill="#d6edf0"/><text x="379" y="50" fill="#0e756f" font-family="Arial" font-size="16">А</text>
+  <text x="24" y="123" fill="#17354a" font-family="Arial" font-size="25" font-weight="700">Добрый день, Андрей</text>
+  <text x="24" y="151" fill="#71899b" font-family="Arial" font-size="15">Сегодня есть одно важное действие</text>
+  <rect x="20" y="177" width="390" height="162" rx="20" fill="url(#g)" filter="url(#s)"/>
+  <text x="44" y="212" fill="#cbf4ef" font-family="Arial" font-size="12" font-weight="700">НУЖНО СДАТЬ ДО ЗАВТРА</text>
+  <text x="44" y="246" fill="#fff" font-family="Arial" font-size="20" font-weight="700">Обратная связь</text>
+  <text x="44" y="271" fill="#d9f6f3" font-family="Arial" font-size="14">Монтаж сцены — Лето 2026</text>
+  <rect x="44" y="288" width="170" height="34" rx="10" fill="#fff"/>
+  <text x="61" y="310" fill="#0d6d68" font-family="Arial" font-size="13" font-weight="700">Открыть форму →</text>
+  <text x="24" y="384" fill="#17354a" font-family="Arial" font-size="19" font-weight="700">Мой статус</text>
+  <g filter="url(#s)"><rect x="20" y="404" width="187" height="92" rx="16" fill="#fff"/><rect x="223" y="404" width="187" height="92" rx="16" fill="#fff"/></g>
+  <text x="40" y="434" fill="#7e94a4" font-family="Arial" font-size="12">НЕ СДАНО ФОРМ</text><text x="40" y="476" fill="#173c55" font-family="Arial" font-size="31" font-weight="700">1</text>
+  <text x="243" y="434" fill="#7e94a4" font-family="Arial" font-size="12">ИНИЦИАТИВЫ</text><text x="243" y="476" fill="#173c55" font-family="Arial" font-size="31" font-weight="700">3</text>
+  <text x="24" y="544" fill="#17354a" font-family="Arial" font-size="19" font-weight="700">Проекты</text>
+  <rect x="20" y="563" width="390" height="111" rx="17" fill="#fff" filter="url(#s)"/>
+  <text x="40" y="596" fill="#25455c" font-family="Arial" font-size="16" font-weight="700">Монтаж сцены — Лето 2026</text><text x="40" y="622" fill="#7891a3" font-family="Arial" font-size="13">14 из 18 сотрудников сдали форму</text>
+  <rect x="40" y="641" width="108" height="21" rx="10" fill="#fff3d9"/><text x="50" y="656" fill="#a86e00" font-family="Arial" font-size="11" font-weight="700">ЖДЁТ ФОРМЫ</text><text x="365" y="626" fill="#0f766e" font-family="Arial" font-size="20">›</text>
+  <text x="24" y="722" fill="#17354a" font-family="Arial" font-size="19" font-weight="700">Будет позже</text>
+  <rect x="20" y="741" width="390" height="90" rx="17" fill="#eaf4f5"/>
+  <text x="42" y="775" fill="#0d7069" font-family="Arial" font-size="15" font-weight="700">Напоминания</text><text x="42" y="800" fill="#577689" font-family="Arial" font-size="13">Поможем ничего не забыть</text><text x="350" y="787" fill="#0d7069" font-family="Arial" font-size="13">Скоро</text>
+  <rect y="856" width="430" height="76" fill="#fff"/>
+  <g font-family="Arial" font-size="11" text-anchor="middle"><text x="43" y="902" fill="#0f766e" font-weight="700">⌂&#10;Главная</text><text x="129" y="902" fill="#8197a5">▣&#10;Формы</text><text x="215" y="902" fill="#8197a5">▤&#10;Проекты</text><text x="301" y="902" fill="#8197a5">◉&#10;Разборы</text><text x="387" y="902" fill="#8197a5">▥&#10;Ещё</text></g>
+</svg>
