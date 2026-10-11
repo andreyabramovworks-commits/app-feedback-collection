@@ -1319,3 +1319,13 @@ This block is automatically supplied ambient UI state, not part of the user's re
 План верхнего уровня находится в `docs/IMPLEMENTATION_PLAN.md`: сначала карта всех функций продукта, затем подробный MVP из восьми шагов.
 
 Две картинки интерфейса пока не созданы: встроенный генератор изображений дважды вернул сетевую ошибку. Не подменяю их некачественными заглушками. После восстановления сервиса нужно повторить генерацию отдельных макетов главной вкладки для ПК и телефона.
+
+### Codex
+
+GitHub обновлён: коммит `3b72c95` в ветке `main`.
+
+План верхнего уровня: [IMPLEMENTATION_PLAN.md](https://github.com/andreyabramovworks-commits/app-feedback-collection/blob/main/docs/IMPLEMENTATION_PLAN.md).
+
+Подробный чек-лист вайбкодинга: [VIBECODING_MVP_CHECKLIST.md](https://github.com/andreyabramovworks-commits/app-feedback-collection/blob/main/docs/VIBECODING_MVP_CHECKLIST.md). В нём 12 шагов, готовые промпты, проверки после каждого шага и реалистичный ориентир 8–12 рабочих дней; первую форму можно получить примерно через 3–4 рабочих дня.
+
+Макеты ПК и телефона пока не выданы: встроенный генератор изображений дважды вернул сетевую ошибку. Я не подменял их случайными картинками.
