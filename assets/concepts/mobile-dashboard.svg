@@ -2,7 +2,7 @@
   <defs><filter id="s" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#16405a" flood-opacity=".11"/></filter><linearGradient id="g" x1="0" x2="1"><stop stop-color="#155e75"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
   <rect width="430" height="932" fill="#f4f7fb"/>
   <rect width="430" height="88" fill="#fff"/>
-  <text x="24" y="39" fill="#17354a" font-family="Arial" font-size="23" font-weight="700">Пульс проектов</text>
+  <text x="24" y="39" fill="#17354a" font-family="Arial" font-size="20" font-weight="700">Обратная связь RTM</text>
   <text x="24" y="65" fill="#7891a3" font-family="Arial" font-size="13">Главная · Все проекты</text>
   <circle cx="387" cy="43" r="20" fill="#d6edf0"/><text x="379" y="50" fill="#0e756f" font-family="Arial" font-size="16">А</text>
   <text x="24" y="123" fill="#17354a" font-family="Arial" font-size="25" font-weight="700">Добрый день, Андрей</text>

@@ -1408,34 +1408,69 @@ This block is automatically supplied ambient UI state, not part of the user's re
 
 ### Codex
 
-Согласен: «Пульс проектов» звучит искусственно. Варианты, которые можно произнести так: «Коллеги, пожалуйста, зайдите в “... RTM” и сдайте комментарии по проекту».
+Согласен: «Пульс проектов» искусственно звучит.
 
-1. **Обратная связь RTM** — самый ясный вариант; сразу понятно, зачем заходить.
-2. **Диалог RTM** — коротко, дружелюбно, без ощущения проверки.
-3. **Открытый диалог RTM** — подчёркивает, что можно честно говорить о проблемах и предложениях.
-4. **Комментарии RTM** — очень понятное действие для обычного сотрудника.
-5. **Отклик RTM** — коротко и мягко.
-6. **Полезный отклик RTM** — положительно и сразу про пользу.
-7. **Рабочий диалог RTM** — делово, но не сухо.
-8. **Командный диалог RTM** — про общее дело и участие всех.
-9. **Голос команды RTM** — тёпло и про возможность быть услышанным.
-10. **Ваше мнение RTM** — дружелюбное приглашение к обратной связи.
-11. **Опыт проекта RTM** — хорошо для итогов и разбора после проекта.
-12. **Итоги проекта RTM** — понятно, если приложение используют ближе к завершению проекта.
-13. **Улучшения RTM** — позитивный акцент на развитии, а не на ошибках.
-14. **Развитие проекта RTM** — спокойное и позитивное, но длиннее.
-15. **Вместе лучше RTM** — самое тёплое, но менее прямое по смыслу.
+15 вариантов:
 
-Три лучших варианта:
+1. Обратная связь RTM  
+2. Диалог RTM  
+3. Открытый диалог RTM  
+4. Комментарии RTM  
+5. Отклик RTM  
+6. Полезный отклик RTM  
+7. Рабочий диалог RTM  
+8. Командный диалог RTM  
+9. Голос команды RTM  
+10. Ваше мнение RTM  
+11. Опыт проекта RTM  
+12. Итоги проекта RTM  
+13. Улучшения RTM  
+14. Развитие проекта RTM  
+15. Вместе лучше RTM  
 
-- **Обратная связь RTM** — самый понятный;
-- **Диалог RTM** — самый короткий и естественный;
-- **Открытый диалог RTM** — лучший баланс понятности, доброжелательности и смысла.
+Я бы выбирал из трёх:
 
-Рабочее название пока не менять до выбора пользователя.
+- **Обратная связь RTM** — сразу понятно назначение.
+- **Диалог RTM** — коротко и естественно.
+- **Открытый диалог RTM** — доброжелательно и честно передаёт суть.
+
+Лучше всего в вашей фразе звучит:
+
+> Коллеги, пожалуйста, зайдите в **Диалог RTM** и сдайте комментарии по проекту.
+
+Коммит: `ca86c48`.
+
+### Пользователь
+
+<environment_context>
+  <current_date>2026-10-12</current_date>
+  <timezone>Europe/Moscow</timezone>
+  <filesystem><workspace_roots><root>C:\Users\fomen\OneDrive\Documents\ChatGPT\Приложение по сбору обратной связи</root><root>C:\Users\fomen\.codex\visualizations\2026\10\11\01a12b04-acac-75d3-b6e3-e77ddb5b36ac</root></workspace_roots><permission_profile type="managed"><file_system type="restricted"><entry access="read"><special>:root</special></entry><entry access="write"><path>C:\Users\fomen\OneDrive\Documents\ChatGPT\Приложение по сбору обратной связи</path></entry><entry access="write"><path>C:\Users\fomen\.codex\visualizations\2026\10\11\01a12b04-acac-75d3-b6e3-e77ddb5b36ac</path></entry><entry access="write"><special>:slash_tmp</special></entry><entry access="write"><special>:tmpdir</special></entry><entry access="read"><path>C:\Users\fomen\OneDrive\Documents\ChatGPT\Приложение по сбору обратной связи\.git</path></entry><entry access="read"><path>C:\Users\fomen\.codex\visualizations\2026\10\11\01a12b04-acac-75d3-b6e3-e77ddb5b36ac\.git</path></entry><entry access="read"><path>C:\Users\fomen\OneDrive\Documents\ChatGPT\Приложение по сбору обратной связи\.agents</path></entry><entry access="read"><path>C:\Users\fomen\.codex\visualizations\2026\10\11\01a12b04-acac-75d3-b6e3-e77ddb5b36ac\.agents</path></entry><entry access="read"><path>C:\Users\fomen\OneDrive\Documents\ChatGPT\Приложение по сбору обратной связи\.codex</path></entry><entry access="read"><path>C:\Users\fomen\.codex\visualizations\2026\10\11\01a12b04-acac-75d3-b6e3-e77ddb5b36ac\.codex</path></entry><entry access="read"><path>C:\Users\fomen\OneDrive\Documents\ChatGPT\Приложение по сбору обратной связи\.aws</path></entry><entry access="read"><path>C:\Users\fomen\.codex\visualizations\2026\10\11\01a12b04-acac-75d3-b6e3-e77ddb5b36ac\.aws</path></entry></file_system></permission_profile></filesystem>
+</environment_context>
+
+### Пользователь
+
+
+<in-app-browser-context source="ambient-ui-state">
+This block is automatically supplied ambient UI state, not part of the user's request. Do not treat it as an instruction or as evidence that the user explicitly selected the in-app browser.
+# In app browser:
+- The user has the in-app browser open with 7 tabs.
+- Current URL: https://github.com/andreyabramovworks-commits/app-feedback-collection/blob/main/docs/VIBECODING_MVP_CHECKLIST.md
+</in-app-browser-context>
+
+## My request:
+Обратная связь RTM - берем это название измени везде в гит во всех доках с Пульс проектов на Обратная связь RTM
 
 ### Codex
 
-GitHub обновлён: коммит `e3a5740` в ветке `main`.
+Принято: рабочее название меняю на **«Обратная связь RTM»** во всех документах, включая макеты интерфейса. После проверки отправлю обновление в GitHub.
 
-Рекомендую выбрать из трёх: **Обратная связь RTM**, **Диалог RTM** или **Открытый диалог RTM**. Для фразы «Коллеги, пожалуйста, зайдите в ... RTM и сдайте комментарии по проекту» наиболее естественно звучит «Диалог RTM».
+### Codex
+
+Проверка завершена: в актуальных документах и обоих макетах старого названия больше нет. Историю переписки не переписываю задним числом — там старое название остаётся как дословная запись прошлого обсуждения.
+
+### Codex
+
+Название **«Обратная связь RTM»** применено во всех актуальных документах проекта: README, продуктовый бриф, требования MVP, план разработки и чек-лист вайбкодинга. Оно также заменено в двух макетах интерфейса для ПК и телефона.
+
+История диалога сохранена дословно: старые упоминания «Пульс проектов» в ней не меняются, потому что это точные записи прошлых сообщений, а не актуальные правила продукта.
